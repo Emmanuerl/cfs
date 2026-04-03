@@ -493,10 +493,9 @@ docker run
 
 ## Further Reading & References
 
+- [Bakman's series on container internals](https://itnext.io/breaking-down-containers-part-0-system-architecture-37afe0e51770?gi=a8dbd98c74c5)
+- ["Containers from Scratch" — Liz Rice (2018, the talk this demo is based on)](https://youtu.be/8fi7uSYlOdc?si=TUqEYVoIaUqWtNB)
 - [Linux man page — clone(2)](https://man7.org/linux/man-pages/man2/clone.2.html)
 - [Linux man page — cgroups(7)](https://man7.org/linux/man-pages/man7/cgroups.7.html)
 - [Linux man page — namespaces(7)](https://man7.org/linux/man-pages/man7/namespaces.7.html)
 - [Linux man page — chroot(2)](https://man7.org/linux/man-pages/man2/chroot.2.html)
-- [OCI Runtime Spec](https://github.com/opencontainers/runtime-spec)
-- [runc source code](https://github.com/opencontainers/runc)
-- *"Containers from Scratch"* — Liz Rice (2018, the talk this demo is based on)
